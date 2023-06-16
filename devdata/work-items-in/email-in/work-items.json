@@ -1,0 +1,27 @@
+[
+  {
+    "payload": {
+      "email": {
+        "from": {
+          "name": "Tommi Holmgren",
+          "address": "tommi@robocorp.com"
+        },
+        "to": [
+          {
+            "name": "",
+            "address": "process.robocorp.documentsfro.1e63m1uszvz@mail.eu1.robocloud.eu"
+          }
+        ],
+        "cc": [],
+        "bcc": [],
+        "reply_to": {
+          "name": "",
+          "address": ""
+        },
+        "subject": "attachemnts",
+        "date": "2023-03-26T16:38:38.000Z",
+        "text": "snip"
+      }
+    }
+  }
+]
